@@ -8,14 +8,15 @@ Deploy no Heroku
 Registrar clientes [nome, email, cps, rg, celular, ativo]  
 Validação dos campos cadastrados  
 Filtros de campo, ordenação e pesquisa  
-Paginação e autenticação básica implementada
-Métodos permitidos autenticado: GET, POST, PUT e DELETE
+Paginação e autenticação básica implementada  
+Métodos permitidos autenticado: GET, POST, PUT e DELETE  
 Quando não autenticado: GET e POST
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `Python`
 - `Django`
+- `Django REST Framework`
 
 ## 🛠️ Abrir e rodar o projeto
 
